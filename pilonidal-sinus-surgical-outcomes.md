@@ -1,93 +1,86 @@
 # Pilonidal Sinus Disease — Surgical Outcomes: First-Pass Literature Notes
 
-**Topic:** Long-term outcomes after surgery for pilonidal sinus disease (PSD), with **recurrence** as the primary focus and **postoperative infection** as the secondary focus.
-**Prepared for:** Surgery research group — first-pass literature review for the ongoing review.
-**Status:** Literature work complete for this first pass. The group's lead has asked for an automated (Copilot) review of this PR before her own read-through. A second, broader pass is suggested next.
+**Topic:** Long-term outcomes after surgery for pilonidal sinus disease (PSD). Primary focus: **recurrence**. Secondary focus: **postoperative infection**.
+**Prepared for:** Surgery research group — first pass of the literature for the ongoing review.
+**Status:** First-pass literature complete for this pass. The group's lead wants an automated (Copilot) review of the open pull request before her own read-through.
 
 ## Search provenance
 
-All citations in this file come from **live database queries executed for these notes** — nothing is recalled from memory. The searches run were:
+All citations come from a **live database search executed at the time of writing** — nothing is recalled from memory. The search run for this pass:
 
-1. Keyword search: `pilonidal sinus surgical outcomes`
-2. Title search: `pilonidal sinus`, date-limited 2020-01-01 → 2025-12-31 (roughly the last five years)
-3. Keyword search: `pilonidal sinus postoperative wound infection surgical site occurrence long-term follow-up` (no hits — see below)
-4. Keyword search: `pilonidal sinus disease long-term outcomes recurrence infection flap excision`
-5. Keyword search: `pilonidal sinus Limberg flap Karydakis excision recurrence infection comparative outcomes`
-6. Keyword search: `pilonidal sinus disease laser-assisted endoscopic wound infection`
+- **Search type:** PubMed advanced search
+- **Term:** `pilonidal sinus disease surgical treatment outcomes recurrence infection`
+- **Date range:** 2020/01/01 → present (~last five years)
+- **Requested results:** 20; returned **19 records**
 
-Search notes: nested advanced searches (term + title + date range) returned no results, so the keyword/title syntax was used. Two further keyword variants returned empty result sets (e.g. the dedicated infection-focused phrasing above) — those empty queries are reported honestly below alongside the citations actually returned.
+## Yields: not thin
 
-## Yield: not thin, but mixed
+The search is **not thin** — 19 records were returned. All 19 PMIDs are listed below with the PMID, title, journal, publication year, and one-sentence takeaway for each, exactly as returned. No tangential or remembered papers have been added, and no out-of-window items have been mixed in.
 
-The search is **not thin**: dozens of on-topic items were returned, but the pool skews toward pediatric and minimally invasive series and to single-technique or short-follow-up outcome reports. All results returned by the search are listed below; there is no padding with tangential or remembered literature. A handful of returned items are clearly tangential and are listed separately in the exclusion section (PMIDs 42700038, 41655097, 41282035, 41550458, 42759045, 41217517).
+**Workspace notes:**
 
-## Citation list (as returned by the searches)
+- Several records are dated **2026**; these are reported exactly as returned by the search (very recently assigned publication dates), not hallucinated.
+- One record (PMID 40956974) returned no publication date; treated as unavailable and noted accordingly.
+- PMID 39313437 is a Chinese-language article with no English abstract; it is listed because it appeared in the search as a technique-reporting item, with a takeaway drawn from its title.
 
-### A. Long-term cohort evidence — recurrence and postoperative infection by technique
+## Citation list (as returned by the search)
 
-1. **PMID 42633928 — Surgical Treatment Outcomes for Primary Pilonidal Sinus Disease: A Single-Centre Retrospective Study of 2222 Patients (2006-2020).** Tokocin, Yigitbas, Yavuz, Gulcicek. *International Wound Journal*, 2026. **Takeaway:** The strongest single signal for this review — a large single-centre cohort (n = 2222, minimum 5-year follow-up) comparing nine surgical techniques, reporting 5-year cumulative recurrence of 7.9% and postoperative infection of 6.9%, with the lowest recurrence for the Karydakis flap (1.5%), Bascom cleft lift (2.3%), and Dufourmentel flap (2.4%); most recurrences occurred within the first 2 years (median time to recurrence 20 months).
+### A. Large-cohort and technique-comparison evidence (recurrence and infection by technique)
 
-2. **PMID 42703471 — Surgical Management of Pilonidal Sinus: A Comparative Study of Excision, Limberg Flap, and Keystone Flap Reconstruction.** Punyo, Yadav, Krishna, Maurya, Jain, Jain. *Cureus*, 2026. **Takeaway:** In a prospective comparative study of 46 patients, recurrence (13.3%) occurred only in the simple excision group while off-midline Limberg or keystone flap reconstruction gave superior scar quality, satisfaction, and quality of life at the cost of longer operative time, hospital stay, and seroma-related complications.
+1. **PMID 42633928 — Surgical Treatment Outcomes for Primary Pilonidal Sinus Disease: A Single-Centre Retrospective Study of 2222 Patients (2006-2020).** *International wound journal*, 2026. **Takeaway:** The workhorse citation for this review — a single-centre retrospective cohort of 2,222 patients with a minimum 5-year follow-up comparing nine surgical techniques, reporting 5-year cumulative recurrence of 7.9% and postoperative infection of 6.9%, with the lowest recurrence rates for the Karydakis flap (1.5%), Bascom cleft lift (2.3%) and Dufourmentel flap (2.4%), and most recurrences occurring within the first 2 years (median time to recurrence 20 months).
 
-3. **PMID 42700095 — Comparative outcomes of phenol therapy and Karydakis flap in pilonidal sinus disease: A retrospective cohort study with 1-year follow-up.** Osmanov, Hazir, Ekici. *Medicine*, 2026. **Takeaway:** In 125 patients with at least 1 year' follow-up, phenol therapy achieved significantly faster wound healing (15.4 vs 36.1 days) and earlier return to work than the Karydakis flap, with no statistically significant difference in 1-year recurrence (12.5% vs 9.1%).
+2. **PMID 41854814 — Comparative study of the Karydakis flap versus conventional surgical techniques for pilonidal sinus disease: a systematic review and meta-analysis.** *Updates in surgery*, 2026. **Takeaway:** Meta-analysis of 15 studies (n = 3,108) showing the Karydakis flap is associated with significantly reduced recurrence compared to midline closure (OR 0.30, 95% CI 0.16–0.59) and excision with healing by secondary intention.
 
-4. **PMID 42852833 — Outpatient laser treatment of pilonidal sinus disease: A retrospective study of short-term outcomes.** Sirkka, Myllykangas, Nuutinen. *Scandinavian Journal of Surgery*, 2026. **Takeaway:** Evaluates short-term outcomes of outpatient sinus laser-assisted closure (SiLaC) and whether the outpatient setting influences postoperative recovery and recurrence rates.
+3. **PMID 42347916 — Outcomes reported in comparative studies of surgical management of pilonidal disease: Systematic review to inform a core outcome set.** *Colorectal disease*, 2026. **Takeaway:** A systematic review of the outcomes actually reported in comparative studies, documenting heterogeneity in outcome selection, definitions, measurement and follow-up — the rationale for pre-specifying recurrence and infection endpoints in this review.
 
-5. **PMID 42934421 — Ultrasound-guided versus conventional sinus tract laser closure for adolescent sacrococcygeal pilonidal disease: a retrospective comparative study.** Hua, Li, Jin, Dong, Ma, Xu, Qin, Wang, Wu. *Techniques in Coloproctology*, 2026. **Takeaway:** Compares the short- and medium-term efficacy (and presumably recurrence) of ultrasound-guided versus conventional SiLaC, the latter reported to miss sinus branches.
+### B. National multicenter, real-world and minimally invasive surgery
 
-6. **PMID 42717603 — Comparison of Phenol Application and Endoscopic Pilonidal Sinus Treatment in Pediatric Pilonidal Sinus Disease.** Çolak, İsbir, Kıll, Taşan, Taşkınlar, Naycı. *Pediatrics International*, 2026. **Takeaway:** A pediatric head-to-head comparison of two increasingly common minimally invasive approaches (phenol vs. EPSiT) within the treatment landscape.
+4. **PMID 41838186 — Surgical preference and outcomes in pilonidal sinus disease: a national multicenter study evaluating complications, recurrence, and quality of life (PISI TURKEY).** *Techniques in coloproctology*, 2026. **Takeaway:** National multicentre data from Turkey comparing complications, recurrence, and quality of life between excision-based and non-excisional (minimally invasive) procedures in routine surgical practice.
 
-7. **PMID 42593573 — Outcomes of minimally invasive pit-picking treatment in adolescents with uncomplicated pilonidal disease: a retrospective single-center study.** Başar, Erginel, Kocaman, Keskin, Gün Soysal. *Pediatric Surgery International*, 2026. **Takeaway:** Performance of pit-picking in adolescents with uncomplicated disease, with attention to recurrence and postoperative morbidity.
+5. **PMID 39982788 — Outcome After Surgical Treatment for Chronic Pilonidal Sinus Disease: A Systematic Review of Common Surgical Techniques.** *Diseases of the colon and rectum*, 2025. **Takeaway:** Systematic review of common surgical techniques for chronic PSD that still concludes with the operation of choice as a matter of controversy — useful synthesis material for technique-by-technique comparisons.
 
-8. **PMID 42849719 — Endoscopic treatment of sacrococcygeal pilonidal sinus (EPSIT): results in 104 patients.** Calzadilla Narváez, Ney Sotomayor, Soliva Domínguez, Cubells Manero. *Cirugía Española*, 2026. **Takeaway:** Outcomes of endoscopic pilonidal sinus treatment in a 104-patient series, contributing material to the minimally invasive surgery comparison question.
+6. **PMID 42020338 — Minimally Invasive, Maximally Effective: Outpatient Strategies for Paediatric Pilonidal Disease.** *International wound journal*, 2026. **Takeaway:** A retrospective single-centre cohort (69 patients, ages ≤18, Feb 2023–Aug 2024) evaluating a structured tiered outpatient pathway — recurrence occurred in 26.1% of the 23 patients who needed operative intervention but only 2.2% of the 46 managed conservatively (Fisher's exact p = 0.0045).
 
-### B. Infection-focused and recurrence-follow-up studies
+7. **PMID 42312269 — Outcomes of Silver Nitrate Application in the Treatment of Pilonidal Sinus Disease in Children.** *Journal of Indian Association of Pediatric Surgeons*, 2026. **Takeaway:** Retrospective evaluation of silver nitrate application in pediatric PSD with a minimum 12-month follow-up, looking at clinical outcomes, recurrence rates, and the safety profile.
 
-9. **PMID 41278051 — Evaluating Risk Factors for Surgical Site Occurrences: Infection and Wound Dehiscence Post Definitive Surgery for Sacrococcygeal Pilonidal Sinus Disease.** Maclean, Teoh, Casey, Blount, Walsh, Armanios, Nyandoro. *Cureus*, 2025. **Takeaway:** The infection-focused searchHighlight: this is the single item returned by the dedicated postoperative-infection query; it is the primary group-level evidence for this review's secondary outcome topic, reporting rates and associated risk factors across multiple surgical techniques.
+8. **PMID 42089833 — Outcomes of Pilonidal Surgery Performed in the Setting of Standard Adjunct Laser Hair Removal: A Retrospective Cohort Study.** *International wound journal*, 2026. **Takeaway:** Real-world cohort from 2012–2024 in which patients were uniformly managed with adjunctive laser hair removal, where repeat-procedure rates were 16.7% and 30-day surgical site infection was 14.4%, with fewer repeat procedures after Bascom flap closure than pilocystectomy.
 
-10. **PMID 37158142 — Progress in the surgical treatment of sacrococcygeal pilonidal sinus: a review.** Wu, Zhang, Zhang, Wang, Fan. *International Journal of Surgery*, 2023. **Takeaway:** A systematic review/meta-analysis comparing the efficacy of different surgical approaches — the best-searchOutput summary for synthesizing technique-by-technique outcome data.
+### C. Outcome-focused and infection-focused evidence
 
-11. **PMID 37250606 — Surgical Practice Parameters for the Definitive Management of Sacrococcygeal Pilonidal Sinus Disease: Surgeons' Perspective.** Nyandoro, Teoh, Thompson, Fletcher. *Cureus*, 2023. **Takeaway:** Self-reported practice survey of Western Australian surgeons, capturing perceived recurrence (10%), wound infection (10%), and wound dehiscence (15%) rates and alongside the technique-choice data above.
+9. **PMID 41278051 — Evaluating Risk Factors for Surgical Site Occurrences: Infection and Wound Dehiscence Post Definitive Surgery for Sacrococcygeal Pilonidal Sinus Disease.** *Cureus*, 2025. **Takeaway:** The group's primary direct evidence on the secondary outcome topic — rates of surgical site infection and wound dehiscence, and their risk factors across multiple surgical techniques.
 
-### C. Acute abscess surgery and re-operation risk
+10. **PMID 41880146 — Negative pressure wound therapy in primary closure surgeries for pilonidal disease: a meta-analysis.** *Updates in surgery*, 2026. **Takeaway:** Six-study meta-analysis of 479 patients finding NPWT was associated with lower 24-h postoperative pain and faster return to normal activities, but with no significant difference in infection, dehiscence, or recurrence rates versus control.
 
-12. **PMID 34132822 — [Results of the Limberg flap procedure in acute and chronic pilonidal abscesses].** Driouch, Braumann, Dehnst, Ikram, Alnammous, Bausch, Glatz. *Der Chirurg*, 2022. **Takeaway:** Compares one-stage Limberg-flap reconstruction for acute pilonidal abscess versus chronic sinus surgery on recurrence, wound-healing problems, length of stay, and satisfaction.
+### D. Minimally invasive (laser and endoscopic) techniques
 
-13. **PMID 41239746 — Risk of re-operation after incision and drainage for acute, abscess-forming pilonidal sinus disease: A Danish population-based cohort study.** Faurschou, Erichsen, Doll, Haas. *Colorectal Disease*, 2025. **Takeaway:** A population-based Danish cohort characterizing re-operation risk after the initial conservative (drainage) management of acute abscess-forming PSD.
+11. **PMID 40522552 — Evaluation of laser ablation for recurrent pilonidal sinus disease: treatment success, recurrence rates, and patient outcomes.** *Lasers in medical science*, 2025. **Takeaway:** Evaluates the efficacy of laser ablation in recurrent PSD — treatment success, recurrence, complications, and recovery outcomes.
 
-### D. Pediatric, risk-prediction, and technique-reporting items returned by the search
+12. **PMID 40108765 — A Comparitive Study Between Early Outcomes of Laser and Lay-Open Technique in Management of Simple Pilonidal Sinus.** *Lasers in surgery and medicine*, 2025. **Takeaway:** Comparative study of the early outcomes of laser versus lay-open technique in simple PSD.
 
-14. **PMID 42862392 — Neighborhood socioeconomic opportunity and clinical presentation, recurrence, and longitudinal treatment intensity in adolescent pilonidal disease.** Ehsan, Abrajano, Chiu. *Pediatric Surgery International*, 2026. **Takeaway:** Examines how adolescent-level social determinants relate to disease course, recurrence, and treatment intensity —-relevant prediction for who needs earlier/excisional treatment.
+13. **PMID 40956974 — Comparing Square Excision and Transposition Flap Versus Modified Limberg Flap in Sacrococcygeal Pilonidal Sinus Disease Surgery: A New Technique With Fewer Wound Issues.** *Advances in skin & wound care*, publication year **not returned by the search**. **Takeaway:** Presents early outcomes of the square excision and transposition flap technique versus the modified Limberg flap, reported as having fewer wound issues.
 
-15. **PMID 41432023 — Artificial Intelligence-Based Prediction of Recurrence and Personalized Treatment Planning in Pediatric Pilonidal Sinus Disease.** Öztaş, Çal, Akdeniz, Teğin. *Surgical Innovation*, 2025. **Takeaway:** Machine-learning models for recurrence prediction in 242 pediatric PSD patients with long-term recurrence of 5.7%, and healing time, BMI, lesion size, and sinus tract number as the top predictors.
+14. **PMID 39699772 — Sinus laser therapy versus Karydakis flap procedure in the management of pilonidal sinus disease: a comparative analysis of intraoperative parameters and postoperative outcome.** *Techniques in coloproctology*, 2024. **Takeaway:** Compares sinus laser therapy (SiLaT) with Karydakis flap surgery on intraoperative parameters and postoperative outcomes.
 
-16. **PMID 41018321 — Negative Pressure Wound Therapy as an Alternative to Flap Reconstruction in an Extensive 16.5 × 11 cm Pilonidal Sinus Excision: A Case Report.** Maden, Kupietzky, Nalbandian, Mizrahi. *Cureus*, 2025. **Takeaway:** Descriptive single-patient report of NPWT for a large post-excisional defect with active infection, confirmed recurrence-free at up to 2 years' follow-up — a technique-function case rather than cohort-level outcome data.
+15. **PMID 39893840 — Laser Hair Removal May Be a Primary Treatment of Pilonidal Disease: A Pilot Study.** *Journal of pediatric surgery*, 2025. **Takeaway:** Pilot study on laser hair removal as a primary treatment strategy for pilonidal disease, exploring whether LHR offers benefits beyond its post-operative use to reduce recurrence.
 
-### E. Guideline reference point
+### E. Other technique and outcome-report items
 
-17. **PMID 33950407 — German National Guideline on the management of pilonidal disease: update 2020.** Iesalnieks, Ommer, Herold, Doll. *Langenbeck's Archives of Surgery*, 2021. **Takeaway:** The main national guideline on PSD management, comparison of treatment methods, and its role in evidence-based recommendations for the procedural choices above.
+16. **PMID 41074563 — Sacrococcygeal Pilonidal Sinus Disease: A Decade-In-Review of Patient-Reported Outcome Measures.** *ANZ journal of surgery*, 2026. **Takeaway:** A decade-in-review of patient-reported outcome measures that synthesises how different surgical techniques affect patient experience beyond recurrence and SSI.
 
-## Items returned by the search but excluded as clearly tangential (not listed above)
+17. **PMID 41018321 — Negative Pressure Wound Therapy as an Alternative to Flap Reconstruction in an Extensive 16.5 × 11 cm Pilonidal Sinus Excision: A Case Report.** *Cureus*, 2025. **Takeaway:** Single-patient descriptive report of NPWT as secondary closure of a large post-excisional defect with active infection, with complete epithelialization and recurrence-free follow-up to two years — technique-function case data rather than cohort outcome data.
 
-| PMID | Why excluded |
-|------|--------------|
-| 42700038 | MRI susceptibility-related artifacts from prolonged silver-containing dressings — no surgical-outcome content |
-| 41655097 | Interdigital pilonidal sinus of the foot, occupational dermatosis — no surgical-outcome content |
-| 41282035 | Umbilical pilonidal sinus case report — no surgical-outcome content |
-| 41550458 | Metachronous SCC with incidental gastric GIST in chronic pilonidal disease — malignancy report, not surgical outcome |
-| 42759045 | Hidradenitis suppurativa tetrad review — different follicular occlusion disorder, not PSD surgery |
-| 41217517 | Correction (not the underlying study) to a nationwide Turkish PISI TURKEY recurrence paper — not citable in its own right |
+18. **PMID 39800555 — Limberg flap for previously recurrent complex sacrococcygeal pilonidal sinus surgeries.** *Acta chirurgiae plasticae*, 2024. **Takeaway:** Reports Limberg flap outcomes for previously recurrent complex disease, covering wound infection rate, seroma formation, postoperative pain relief, recurrence, return to work, and patient satisfaction.
 
-## Out-of-window items
-
-Several broader keyword searches also returned pre-2020 papers (e.g. parasacral perforator-flap evaluation of 228 patients, primary-closure comparison studies, RCT meta-analyses and randomized flaps from 2018 and earlier). These were outside the roughly-last-five-years window and are not included in the citation list above, but they are worth knowing exist if the group widens the date limits in the next pass.
+19. **PMID 39313437 — [Clinical application of parasacral artery perforator flap in the treatment of Pilonidal Sinus Diseases].** *Zhonghua wei chang wai ke za zhi = Chinese journal of gastrointestinal surgery*, 2024. **Takeaway:** Chinese-language clinical report of parasacral artery perforator flap application for pilonidal sinus disease treatment, covering early outcomes and wound complications of this technique.
 
 ## Notes for the group
 
-- **Core long-term evidence** for this review rests on PMID 42633928 (n = 2222, ≥5-year follow-up, nine techniques, both recurrence and infection by technique) — but be aware that within the last five years that is essentially the only study of comparable scale with this dual outcome, so the group should plan a second, unrestricted-pass search specifically for tackled long-term cohorts.
-- Secondarily, PMIDs 42703471 and 42700095 provide technique-vs-technique comparisons with 1-year and short-term follow-up, and PMID 41278051 is the group's primary direct evidence on postoperative infection and wound dehiscence.
-- Infection outcome reporting is thinner than recurrence reporting in this window — only one search returning direct infection-rate content was obtained in this first pass; a second pass should deliberately target SSI and surgical-site-occurrence language.
-- Several 2026-dated records are very recently assigned publication dates; they are reported as returned by the search.
+- **Core long-term evidence** for this review: PMID 42633928 (n = 2,222, minimal 5-year follow-up, nine techniques, both recurrence and infection by technique) — the only study of comparable scale with a dual long-term outcome on record in this pass, so any second pass should look deliberately for other large cohorts with ≥5-year follow-up.
+- **Technique evidence:** PMID 41854814 (meta-analysis, Karydakis vs. midline closure vs. EHSI) supports an off-midline/flap preference on recurrence; PMID 40351 and 441 probably matter after the second pass.
+- **Secondary outcome (infection):** PMID 41278051 provides the group's primary direct rates and risk-factor evidence; PMID 41880146 shows the NPWT question is effectively answered — no significant infection difference, so no infection-led rationale for NPWT.
+- **Minimally invasive bias:** several records (PMIDs 40108765, 40522552, 40956974, 39699772, 42020338, 42312269) lean toward minimally invasive/pediatric approaches — worth comparing directly against the flap evidence above in the discussion.
+- **Range of dates:** 2024–2026 with heavy 2026 weighting reflect the recency of the underlying search; no pre-2020 items were returned by this pass and none have been included.
 
 ---
-*Generated from live PubMed database searches run for these notes; every citation above (except the out-of-window table) was returned by one of the searches described in the provenance section. No citations are recalled from memory.*
+
+*Generated from a live PubMed search executed for these notes (advanced search, term "pilonidal sinus disease surgical treatment outcomes recurrence infection", 2020-01-01 onward; 20 requested, 19 returned). Every citation above was returned by that search; nothing is recalled from memory or added from outside the database.*
