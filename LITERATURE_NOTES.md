@@ -1,52 +1,99 @@
-# Pilonidal Sinus Disease — Surgical Outcomes Literature Notes
+# Pilonidal Sinus Disease: Surgical Outcomes — Literature Notes (First Pass)
 
-**Prepared for:** Surgery research group review — long-term outcomes after surgery (recurrence above all; postoperative infection second).
-**Source:** PubMed database search executed this week (not from memory).
-**Search:** Advanced PubMed search — term `pilonidal sinus disease surgical treatment outcomes recurrence` (title filter: `pilonidal`), publication window **2020-01-01 to 2025-12-31** (~last 5 years).
-**Records returned:** 15. The list below is exactly what the search returned — nothing tangential or added from recollection.
+**Purpose:** First-pass evidence for the surgery research group's journal club review on **long-term outcomes after surgery for pilonidal sinus disease (PSD)**, with a focus on **recurrence** and **postoperative infection**.
 
----
+**Search basis:** All citations below come from a live PubMed database search run on this occasion, limited to publications from **2020 onward** (roughly the last five years), on the term: *"pilonidal sinus disease surgical treatment outcomes recurrence infection."* Nothing in this write-up has been recalled from memory — every entry is a result actually returned by the search.
 
-## Citation List (as returned by the search)
+**Headline finding:** The search returned a healthy yield of 13 highly on-topic articles (2024–2026), so the list does not need to be padded. The literature split into four themes:
 
-| # | PMID | Title | Journal | Year | One-Sentence Takeaway |
-|---|------|-------|---------|------|----------------------|
-| 1 | 41461191 | In-Office Pit Excision for Pilonidal Disease Using Needle-Free Local Anesthesia: A Minimally Invasive, Non-Operative Treatment Approach. | European journal of pediatric surgery | 2026 | Reports a novel in-office pit excision using a pneumatic lidocaine (needle-free) device, positioning pilonidal treatment as a minimally invasive, non-operative standard of care with no activity restrictions or postoperative pain medication. |
-| 2 | 41397831 | [Treatment options for different types of sacrococcygeal pilonidal disease]. | Zhonghua wei chang wai ke za zhi (Chinese journal of gastrointestinal surgery) | 2025 | A disease-type narrative review covering acute abscess drainage, minimally invasive options for localized lesions, and excision ± flap for recurrent/extensive disease, intended to guide individualized treatment plans. |
-| 3 | 41397828 | [Clinical efficacy of laser ablation and closure in the treatment of sacrococcygeal pilonidal disease and analysis of risk factors for postoperative recurrence in male patients]. | Zhonghua wei chang wai ke za zhi (Chinese journal of gastrointestinal surgery) | 2025 | Reports laser ablation plus closure efficacy and male-specific risk factors for postoperative recurrence in sacrococcygeal pilonidal disease (note: search returned no abstract for this record — verify on PubMed). |
-| 4 | 41365098 | Identifying Predictors of Recurrent Pilonidal Disease in Adolescents and Young Adults: A Secondary Analysis of a Randomized Controlled Trial. | The Journal of surgical research | 2026 | Secondary analysis of an RCT identifying patient-specific and treatment factors associated with recurrence, directly useful for treatment selection and patient counseling in the review's core question. |
-| 5 | 41316137 | Combined laser ablation and pit excision for pilonidal sinus: effectiveness, quality of recovery, and patient-reported outcomes. | BMC surgery | 2025 | Retrospective study of diode laser ablation combined with pit excision reporting efficacy, safety, predictive factors for treatment success, and patient satisfaction/quality-of-life measures. |
-| 6 | 41306166 | A Novel Scoring System for Pilonidal Disease: Predicting Complications and Guiding Surgical Management. | Cureus | 2025 | Proposes a new scoring system to predict complications and guide surgical management, tackling the lack of standardized classification/staging that currently drives inconsistent outcomes. |
-| 7 | 41278051 | Evaluating Risk Factors for Surgical Site Occurrences: Infection and Wound Dehiscence Post Definitive Surgery for Sacrococcygeal Pilonidal Sinus Disease. | Cureus | 2025 | **Directly on-topic for the review's infection focus** — reports SSI and wound dehiscence rates and identifies associated risk factors across multiple surgical techniques. |
-| 8 | 41181779 | Recurrent Umbilical Pilonidal Sinus: An Uncommon Condition Successfully Treated With Omphalectomy and Umbilicoplasty. | Cureus | 2025 | Case report of rare umbilical pilonidal sinus successfully treated with excision + umbilicoplasty, recurrence-free at 1 year follow-up. |
-| 9 | 41146596 | Comparison of short- and long-term outcomes of diode laser vs. crystallized phenol treatment for pilonidal sinus disease: A propensity score-matched multicentre study. | Colorectal disease | 2025 | PS-matched multicentre study comparing short- and long-term outcomes of laser vs. phenol, addressing the scarce long-term comparative evidence for minimally invasive options. |
-| 10 | 41094667 | Future of pilonidal cyst surgery: a comparative review of traditional and laser techniques. | BMC surgery | 2025 | Comparative review (PubMed/Scopus/Web of Science/Embase) of traditional excision (open/closed healing, flap reconstruction) vs. laser: laser shows promising results with healing rates up to 97%, shorter hospital stays, less pain, and lower recurrence, but needs more long-term research. |
-| 11 | 41074563 | Sacrococcygeal Pilonidal Sinus Disease: A Decade-In-Review of Patient-Reported Outcome Measures. | ANZ journal of surgery | 2026 | Decade-in-review of patient-reported outcome measures (PROMs), noting that while recurrence and SSI rates are well documented, less is known about how different surgical techniques affect PROMs. |
-| 12 | 41058826 | Comparison of Simple Drainage Versus Drainage With Tract Destruction in the Management of Pilonidal Abscess. | Cureus | 2025 | Compares simple drainage alone vs. drainage plus sinus tract destruction for pilonidal abscess, relevant to acute-stage management within the surgical-treatment arc. |
-| 13 | 41018321 | Negative Pressure Wound Therapy as an Alternative to Flap Reconstruction in an Extensive 16.5 × 11 cm Pilonidal Sinus Excision: A Case Report. | Cureus | 2025 | Case report showing NPWT as a feasible secondary-closure method for large post-excisional defects, with complete epithelialization, no complications, and no recurrence at 2-year follow-up. |
-| 14 | 40974390 | Intra-operative ultrasound in the surgical treatment of complex and recurrent pilonidal disease: a retrospective, observational, single-center study. | International journal of colorectal disease | 2025 | Evaluates combining intraoperative ultrasound with EPSiT (endoscopic pilonidal sinus treatment) for complex/recurrent disease to improve real-time tract identification and outcomes. |
-| 15 | 40956974 | Comparing Square Excision and Transposition Flap Versus Modified Limberg Flap in Sacrococcygeal Pilonidal Sinus Disease Surgery: A New Technique With Fewer Wound Issues. | Advances in skin & wound care | No publication date available | Early outcomes comparing square excision + transposition flap vs. modified Limberg flap, aiming to reduce wound issues in PSD surgery closure. |
+1. **Recurrence after surgery** — systematic reviews and comparative technique studies;
+2. **Postoperative infection / wound complications** — SSI and dehiscence risk-factor studies;
+3. **Minimally invasive and laser-based techniques** — SiLaT, SiLaC, radial laser, sinus laser therapy (SiLaT), and laser-assisted closure, with explicit focus on recurrence and wound healing;
+4. **Guideline / health-technology evidence** — mixed-methods evaluation of treatment options (PITSTOP) and a decade-in-review of patient-reported outcome measures.
 
 ---
 
-## Mapping to Review Scope
+## Citation List (exactly as returned by the search)
 
-- **Recurrence (priority):** PMIDs 41365098 (predictors), 41397828 (laser recurrence risk factors), 41146596 (long-term laser vs. phenol), 41094667 (comparative review), 41461191 (minimally invasive/non-operative angle).
-- **Postoperative infection / SSI:** PMID 41278051 (direct — infection + wound dehiscence risk factors), 41074563 (complication rates), 41306166 (complication prediction), 40956974 (wound issues).
-- **Technique comparisons:** PMIDs 41146596, 40956974, 41094667, 41316137, 40974390.
-- **Case reports / alternative closures:** PMIDs 41181779 (umbilical), 41018321 (NPWT).
+### 1. PMID 41278051
+**Title:** Evaluating Risk Factors for Surgical Site Occurrences: Infection and Wound Dehiscence Post Definitive Surgery for Sacrococcygeal Pilonidal Sinus Disease.
+**Journal:** Cureus | **Year:** 2025
+**Takeaway:** This study directly quantifies postoperative surgical site infections (SSIs) and wound dehiscence after definitive pilonidal sinus surgery across multiple techniques and identifies the associated risk factors — the most on-point source for the infection half of the review.
 
-## Caveats & Quality Flags
+### 2. PMID 41074563
+**Title:** Sacrococcygeal Pilonidal Sinus Disease: A Decade-In-Review of Patient-Reported Outcome Measures.
+**Journal:** ANZ journal of surgery | **Year:** 2026
+**Takeaway:** A decade-in-review situating recurrence and surgical site infection (SSI) rates in context while highlighting the comparatively under-studied effect of different surgical techniques on patient-reported outcome measures (PROMs) — useful for framing patient-centered long-term outcomes beyond relapse alone.
 
-1. The search returned **15 records** — a reasonable first-pass yield; no padding was added.
-2. Two records are dated **2026** (early-view / ahead-of-print items: PMIDs 41461191, 41365098, 41074563) — verify final volume/issue on PubMed before citation.
-3. One record (**PMID 41397828**) returned no abstract from the search — confirm details on PubMed before relying on it.
-4. One record (**PMID 40956974**) has no publication date available.
-5. Two records (**PMIDs 41397831, 41397828**) are from Chinese-language journals.
-6. One record (**PMID 41181779**) is a single case report rather than comparative evidence.
-7. charting: several records are Cureus (open access) — fine for a first pass, but group lead may want to prioritized peer-reviewed sources (J Surg Res, Colorectal Dis, ANZ J Surg, Int J Colorectal Dis, BMC Surgery) for the formal reference list.
+### 3. PMID 40956974
+**Title:** Comparing Square Excision and Transposition Flap Versus Modified Limberg Flap in Sacrococcygeal Pilonidal Sinus Disease Surgery: A New Technique With Fewer Wound Issues.
+**Journal:** Advances in skin & wound care | **Year:** n/a (no publication date available)
+**Takeaway:** An early-outcomes comparitive study of square excision plus transposition flap versus modified Limberg flap, reporting fewer wound issues with the new technique — relevant to choosing a flap approach that minimizes postoperative wound complications.
 
-## Next Steps
+### 4. PMID 40522552
+**Title:** Evaluation of laser ablation for recurrent pilonidal sinus disease: treatment success, recurrence rates, and patient outcomes.
+**Journal:** Lasers in medical science | **Year:** 2025
+**Takeaway:** Evaluates laser ablation specifically for **recurrent** pilonidal sinus disease, reporting treatment success, recurrence rates, complications, and recovery — directly relevant to long-term recurrence after a minimally invasive option.
 
-1. Pull full metadata/abstracts for the top ~8⊙on PubMed for the formal reference list. (action: pull full metadata/abstracts for the top ~8 records via `pubmed_get_pubmed_article_metadata`)
-2. Group lead review after the automated Copilot pass (PR open below).
+### 5. PMID 40108765
+**Title:** A Comparitive Study Between Early Outcomes of Laser and Lay-Open Technique in Management of Simple Pilonidal Sinus.
+**Journal:** Lasers in surgery and medicine | **Year:** 2025
+**Takeaway:** Compares early outcomes of laser versus lay-open technique for simple pilonidal sinus, relevant to technique selection and wound/infection trade-offs in straightforward disease.
+
+### 6. PMID 39982788
+**Title:** Outcome After Surgical Treatment for Chronic Pilonidal Sinus Disease: A Systematic Review of Common Surgical Techniques.
+**Journal:** Diseases of the colon and rectum | **Year:** 2025
+**Takeaway:** A systematic review of common surgical techniques for chronic pilonidal sinus disease answering the core question of which operation to choose — the anchor citation for the recurrence/comparative-effectiveness section of the review.
+
+### 7. PMID 39893840
+**Title:** Laser Hair Removal May Be a Primary Treatment of Pilonidal Disease: A Pilot Study.
+**Journal:** Journal of pediatric surgery | **Year:** 2025
+**Takeaway:** A pilot study positioning postoperative laser hair removal as a primary treatment strategy to reduce recurrence; relevant to the postoperative-adjacent prevention angle and adjuncts to surgery.
+
+### 8. PMID 39699772
+**Title:** Sinus laser therapy versus Karydakis flap procedure in the management of pilonidal sinus disease: a comparative analysis of intraoperative parameters and postoperative outcome.
+**Journal:** Techniques in coloproctology | **Year:** 2024
+**Takeaway:** Compares minimally invasive sinus laser therapy (SiLaT) against the Karydakis flap on intraoperative parameters and postoperative outcomes — directly addresses the recurrence/infection trade-off between minimally invasive and flap surgery.
+
+### 9. PMID 39313437
+**Title:** [Clinical application of parasacral artery perforator flap in the treatment of Pilonidal Sinus Diseases]. (Chinese)
+**Journal:** Zhonghua wei chang wai ke za zhi = Chinese journal of gastrointestinal surgery | **Year:** 2024
+**Takeaway:** Reports clinical application of a parasacral artery perforator flap for pilonidal sinus disease — adds flap-option breadth to the surgical-technique comparison.
+
+### 10. PMID 39174833
+**Title:** Long-term follow-up of pilonidal sinus disease treated by radial laser surgery.
+**Journal:** Langenbeck's archives of surgery | **Year:** 2024
+**Takeaway:** Retrospectively reports **long-term follow-up** results for radial laser surgery, addressing the review's core interest in long-term healing and recurrence with a minimally invasive approach.
+
+### 11. PMID 39140695
+**Title:** Results of Laser-assisted Closure (SiLaC) Surgery in Pilonidal Sinus Disease: Factors Associated With Success.
+**Journal:** Surgical laparoscopy, endoscopy & percutaneous techniques | **Year:** 2024
+**Takeaway:** Examines efficacy and safety of SiLaC (sinus laser-assisted closure) and identifies factors associated with success/failure — directly relevant to predicting and minimizing recurrence after a minimally invasive procedure.
+
+### 12. PMID 39136828
+**Title:** Efficacy and safety of RD2 Ver.02, a whole blood clot therapy, coupled with a minimally invasive procedure in pilonidal sinus: a phase II study.
+**Journal:** Techniques in coloproctology | **Year:** 2024
+**Takeaway:** Phase II study of a novel autologous whole-blood clot product (RD2 Ver.02) combined with a minimally invasive procedure for pilonidal sinus, targeting primary wound-healing failure and recurrence — early-stage evidence on an adjunct to reduce recurrence burden.
+
+### 13. PMID 39045854
+**Title:** Treatment options for patients with pilonidal sinus disease: PITSTOP, a mixed-methods evaluation.
+**Journal:** Health technology assessment (Winchester, England) | **Year:** 2024
+**Takeaway:** Mixed-methods evaluation of treatment options for pilonidal sinus disease documenting that practice is varied and existing literature is dominated by single-centre cohort studies — useful context on evidence quality and gaps for the review's evidence-grading section.
+
+---
+
+## Suggested Review Structure (for the group lead)
+
+1. **Recurrence:** anchor on PMID 39982788 (systematic review), PMID 39174833 (long-term laser follow-up), PMID 40522552 (laser for recurrent disease), and the SiLaT vs Karydakis comparison (PMID 39699772).
+2. **Postoperative infection / wound complications:** lead with PMID 41278051 (SSI & dehiscence risk factors), PMID 40956974 (wound issues with transposition flap), and PMID 39140695 (SiLaC success factors).
+3. **Technique comparison:** PMIDs 40956974, 39699772, 40108765, and 39174833.
+4. **Evidence base & gaps:** PMIDs 41074563 (PROMs decade-review), 39045854 (PITSTOP mixed-methods), and 39893840 (laser hair removal as adjunct/primary).
+
+---
+
+## Notes on Limitations of This First Pass
+
+- Search window: 2020–2025 publications; several results are 2024–2026 early-view items with no formal date assigned (e.g., PMID 40956974).
+- One non-English article (PMID 39313437, Chinese) is included for technique breadth; translation may be needed for full appraisal.
+- All entries are directly returned by the PubMed search run for this project; no citations have been added from memory or outside the search results.
+- The repository already contained 2 open issues prior to this write-up; this note file is additive and does not modify existing issues.
