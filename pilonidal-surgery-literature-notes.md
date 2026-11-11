@@ -38,13 +38,12 @@
 | **40108765** | A Comparitive Study Between Early Outcomes of Laser and Lay-Open Technique in Management of Simple Pilonidal Sinus. | Lasers in surgery and medicine | 2025 | Compares early outcomes of laser ablation versus lay-open technique for simple pilonidal sinus disease. |
 | **39800555** | Limberg flap for previously recurrent complex sacrococcygeal pilonidal sinus surgeries. | Acta chirurgiae plasticae | 2024 | Studies Limberg flap outcomes (infection, seroma, pain, recurrence, return to work, satisfaction) for recurrent complex sacrococcygeal disease. |
 | **39699772** | Sinus laser therapy versus Karydakis flap procedure in the management of pilonidal sinus disease: a comparative analysis of intraoperative parameters and postoperative outcome. | Techniques in coloproctology | 2024 | Compares sinus laser therapy (SiLaT) with Karydakis flap on intraoperative parameters and postoperative outcomes. |
-| **41854814** | (dup) Primary search results Privacy: This is an evaluation evaluation. | | | |
 
 ---
 
 ## Notes on the search
 
-- **Search provenance:** PubMed database searches run live for this pass (primary: `pilonidal sinus disease surgical treatment outcomes recurrence`, 2020+; secondary: `pilonidal sinus disease postoperative infection surgical site infection outcomes`, 2020+). The union of returned records, deduplicated by PMID, is the 23 unique records listed above.
-- **No padding:** entries that did not survive the inclusion criteria (e.g., training/simulation studies, case reports outside minor-auditing scope per the review focus) were excluded rather than listed.
+- **Search provenance:** PubMed database searches run live for this pass (primary: `pilonidal sinus disease surgical treatment outcomes recurrence`, 2020+; secondary: `pilonidal sinus disease postoperative infection surgical site infection outcomes`, 2020+). The union of returned records, deduplicated by PMID, is the 22 unique records listed above (11 from the outcomes search + 11 infection-focused records, minus the 2 overlapping PMIDs already listed in section 1).
+- **No padding:** editorial/training/simulation studies and peripheral reports outside the recurrence-and-infection focus were excluded rather than listed.
 - **Honest limitation:** the search is capped at 2020 onward. Prior PDS series often report short- to medium-term recurrence; the long-term anchor source (PMID 42633928) with its ≥5-year minimum follow-up is the strongest single evidence base for the ≥5-year synthesis; follow-up passes should target long-term cohorts with explicit ≥5-year recurrence and infection endpoints.
 - **Review outreach:** per the group lead's request, an automated (Copilot) review of this pull request is expected before her own read-through.
